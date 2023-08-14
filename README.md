@@ -36,10 +36,6 @@ These instructions will get you a copy of the project up and running on your loc
 - CSS
 - JavaScript
 
-## Authors
-
-- [@Shubham](https://github.com/ShubhamSharma-123)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
